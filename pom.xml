@@ -1,6 +1,6 @@
    <project>
      <modelVersion>4.0.0</modelVersion>
-     <groupId>nico.maven</groupId>
+     <groupId>app.maven</groupId>
      <artifactId>maven_project</artifactId>
      <version>1</version>
      <dependencies>
